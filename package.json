@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html --open"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/IrynaHerasymchuk/layout_perla_helsa/issues"
   },
-  "homepage": "https://github.com/IrynaHerasymchuk/layout_perla_helsa#readme"
+  "homepage": "https://github.com/IrynaHerasymchuk/layout_perla_helsa#readme",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
 }
