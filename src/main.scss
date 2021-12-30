@@ -1,16 +1,16 @@
 @font-face {
-  font-family: 'Gilroy Light';
-  src: url(./fonts/Gilroy-FREE/Gilroy-Light.otf);
+  font-family: "Gilroy Light";
+  src: url("./fonts/Gilroy-FREE/Gilroy-Light.otf");
 }
 
 @font-face {
-  font-family: 'Gilroy Bold';
+  font-family: "Gilroy Bold";
   font-weight: bold;
-  src: url(./fonts/Gilroy-FREE/Gilroy-ExtraBold.otf);
+  src: url("./fonts/Gilroy-FREE/Gilroy-ExtraBold.otf");
 }
 
 html {
-  font-family: 'Gilroy Light', sans-serif;
+  font-family: "Gilroy Light", sans-serif;
 }
 
 body {
